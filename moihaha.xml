@@ -55,7 +55,7 @@
                             </value>
                             <next>
                               <block type="oled_drawtext" id="293">
-                                <field name="TEXT">4+(3*7)+10-(1*7)=</field>
+                                <field name="TEXT">4+(3*7)+10-(5*8)=</field>
                                 <next>
                                   <block type="oled_drawnumber" id="302" inline="true">
                                     <value name="NUMBER">
